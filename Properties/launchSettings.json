@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RawAverager": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\Temp_MS\\MEK1 -s 50 -e 180"
+    }
+  }
+}

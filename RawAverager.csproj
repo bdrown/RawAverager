@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Bryon Drown</Authors>
+    <Company>Northwestern University</Company>
+    <Description>Performs profile averaging of spectra in a Thermo RAW file within a given scan range.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="TopDown.Core" Version="5.1.0.34" />
+    <PackageReference Include="TopDown.Thermo" Version="5.1.0.34" />
+  </ItemGroup>
+
+</Project>
